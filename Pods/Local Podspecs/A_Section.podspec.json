@@ -1,0 +1,22 @@
+{
+  "name": "A_section",
+  "version": "0.0.1",
+  "summary": "description",
+  "description": "a short description of a_section",
+  "homepage": "https://github.com/sunjunbing/A_section",
+  "license": "MIT",
+  "authors": {
+    "sunjunbing": "email@address.com"
+  },
+  "source": {
+    "git": "https://github.com/sunjunbing/A_section.git",
+    "commit": "2ed1148ee66a771455fca9bb9f0bb6f9112d8af3"
+  },
+  "source_files": "A_section/Classes/**/*.{h,m}",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

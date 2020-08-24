@@ -1,0 +1,28 @@
+{
+  "name": "B_Category",
+  "version": "0.0.1",
+  "summary": "short description of B_Category",
+  "description": "A short description of B_Category. A short description of B_Category",
+  "homepage": "https://github.com/sunjunbing/B_Category",
+  "license": "MIT",
+  "authors": {
+    "sunjunbing": "email@address.com"
+  },
+  "source": {
+    "git": "https://github.com/sunjunbing/B_Category.git",
+    "commit": "91550105e7042b72b59e83840a9a31b79394322e"
+  },
+  "source_files": "B_Category/Classes/**/*.{h,m}",
+  "exclude_files": "Classes/Exclude",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  },
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}
